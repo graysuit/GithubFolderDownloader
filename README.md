@@ -1,5 +1,5 @@
 # GithubFolderDownloader
-Hacky way to download github public folders without api key or ouath using graphical panel. 
+Hacky way to download github public folders without api key or ouath using graphical panel. Build it or use my binaries https://github.com/graysuit/GithubFolderDownloader/releases/download/1/win_anycpu.7z
 
 <img src="Screenshot.PNG">
 
