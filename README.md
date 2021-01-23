@@ -11,7 +11,7 @@ Hacky way to download github public folders without api key or ouath using graph
 - else if href value contains "**/blob/master/**" or "**/blob/main/**" then it is file link :
 `https://github.com/graysuit/GithubFolderDownloader  /blob/main/  GithubFolderDownloader.sln`
 
-- Afterwards, replace "**github.com**" with "**raw.githubusercontent.com**" and Remove "/blob/" from file :
+- Afterwards, replace "**github.com**" with "**raw.githubusercontent.com**" and Remove "**/blob/**" from file :
 `https://raw.githubusercontent.com/graysuit/GithubFolderDownloader/main/GithubFolderDownloader.sln`
 
 - It would become RAW link. Now you can download it.  
